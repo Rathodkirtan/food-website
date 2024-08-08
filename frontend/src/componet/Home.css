@@ -1,0 +1,32 @@
+.Heading{
+  color: #0b810b;
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+}
+
+/* .main-contant{
+  display: flex;
+  align-items: center;
+  height: 80vh;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.main-contant img{
+  width: 500px;
+  height: auto;
+}
+
+.main-Home-contant{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.main-Home-contant span{
+  font-size: 50px;
+  font-weight: 800;
+  color: black;
+} */
